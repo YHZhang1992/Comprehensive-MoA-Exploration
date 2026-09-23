@@ -1,0 +1,4 @@
+pathway,gene_count,mean_composite_score
+JAK-STAT signaling,2,0.841414
+Inflammatory signaling,2,0.760101
+Matrix remodeling,2,0.569614

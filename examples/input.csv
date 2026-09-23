@@ -1,0 +1,7 @@
+gene,pathway,model_log2fc,treatment_log2fc,human_log2fc,network_degree
+IL17A,Inflammatory signaling,1.8,-1.5,1.6,14
+TNF,Inflammatory signaling,1.2,-0.4,1.0,18
+STAT3,JAK-STAT signaling,0.9,-1.0,0.7,22
+SOCS3,JAK-STAT signaling,-1.1,0.8,-0.9,9
+COL1A1,Matrix remodeling,0.7,0.2,0.4,5
+MMP9,Matrix remodeling,1.4,-0.9,1.1,12

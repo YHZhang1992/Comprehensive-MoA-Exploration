@@ -1,0 +1,7 @@
+gene,pathway,model_signal,treatment_reversal,human_translation,network_importance,composite_score
+STAT3,JAK-STAT signaling,0.9,1.0,0.833333,1.0,0.927778
+IL17A,Inflammatory signaling,1.0,0.833333,0.833333,0.636364,0.828283
+SOCS3,JAK-STAT signaling,1.0,0.727273,0.833333,0.409091,0.755051
+MMP9,Matrix remodeling,1.0,0.642857,0.769231,0.545455,0.728272
+TNF,Inflammatory signaling,1.0,0.333333,0.833333,0.818182,0.691919
+COL1A1,Matrix remodeling,0.7,0.0,0.769231,0.227273,0.410956

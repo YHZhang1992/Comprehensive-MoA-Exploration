@@ -1,0 +1,9 @@
+{
+  "minimum_signal_log2fc": 1.0,
+  "weights": {
+    "model_signal": 1.0,
+    "treatment_reversal": 2.0,
+    "human_translation": 2.0,
+    "network_importance": 1.0
+  }
+}
